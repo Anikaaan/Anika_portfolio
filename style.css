@@ -228,9 +228,17 @@ height: 20vh;
     height: .1rem;
     width: 100%;
 }
-.swiper{
-    width:70rem;
+
+.col{
+    background: whitesmoke;
+    width: .1px;;
+    height: 20vh;
+    border-radius: 50%;
+    aspect-ratio: 1;
 }
+
+
+
 
 
 
